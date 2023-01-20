@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "As elite teams reveal flaws, opportunity arises for Ohio State, USC, others",
+            "description": "Five weeks into the college football season, the field of title contenders is widening. Which teams will separate themselves?",
+            "url": "http://www.foxsports.com/stories/college-football/as-elite-teams-reveal-flaws-opportunity-arises-for-ohio-state-usc-others",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/1408/814/10.2.22_CFB-Rewind_Lookahead_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-10-03T11:57:26Z",
+            "content": "By Bryan Fischer\r\nFOX Sports College Football Writer\r\nFive weeks into the season, we are no longer constrained by a lack of sample size. Now, when reflecting on various college football programs, it'… [+13924 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Associated Press",
+            "title": "Indonesian police launch probe into tear gas firing at football match",
+            "description": "Indonesian police said they were investigating over a dozen officers responsible for firing tear gas that started a crush of people.",
+            "url": "http://espn.go.com/soccer/story/4760352/indonesian-police-launch-probe-into-tear-gas-firing-at-football-match",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1003%2Fr1070380_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-10-03T11:00:00Z",
+            "content": "Relatives grieved on Monday after a crush killed at least 125 people at a football match. Ulet Ifansasti/Getty Images\r\nIndonesian police said they were investigating over a dozen officers responsible… [+1884 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Bill ConnellyESPN Staff Writer ",
+            "title": "College football's biggest changes through the first five weeks of the season",
+            "description": "The top three is still the top three, but plenty of teams have been better than we might have expected. Bill Connelly sorts it all out.",
+            "url": "http://espn.go.com/college-football/insider/story/_/id/34705257/college-football-biggest-changes-first-five-weeks-season",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1002%2Fr1070179_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-10-03T02:00:00Z",
+            "content": "At the start of the 2022 college football season, the dominance of the projected top three teams -- Alabama, Ohio State and Georgia, in some order -- was one of the sport's predominant storylines. (I… [+26328 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "NFL odds Week 4: Wacky wins and bad beats",
+            "description": "NFL Week 4 and college football Week 5 had the usual drama for gamblers. Bettors celebrated (or lamented) wild finishes. Read all about it here.",
+            "url": "http://www.foxsports.com/stories/nfl/nfl-odds-week-4-wacky-wins-and-bad-beats",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/1408/814/BadBeats-horiz.jpeg?ve=1&tl=1",
+            "publishedAt": "2022-10-02T23:41:59Z",
+            "content": "If you've ever watched an NFL\r\n game at a sportsbook, you've seen the reaction half the room cheers, and the other half screams in exasperation after a particular play.\r\nWelcome to the world of wacky… [+5351 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Adam RittenbergESPN Senior Writer ",
+            "title": "Wisconsin fires football coach Paul Chryst, sources say",
+            "description": "Wisconsin has fired coach Paul Chryst, and defensive coordinator Jim Leonhard will serve as interim coach for the remainder of the season, sources said.",
+            "url": "http://espn.go.com/college-football/story/_/id/34714751/wisconsin-fires-football-coach-paul-chryst-sources-say",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F1024%2Fr144373_1024x576_16%2D9.jpg",
+            "publishedAt": "2022-10-02T23:26:00Z",
+            "content": "Wisconsin has fired coach Paul Chryst after the team's 2-3 start, sources told ESPN.\r\nDefensive coordinator Jim Leonhard will serve as interim coach for the remainder of the season, sources said. The… [+1155 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
